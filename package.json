@@ -1,5 +1,5 @@
 {
 	"name": "release-please-experiments",
 	"version": "0.3.0",
-	"main": "index.js"
+	"main": "main.js"
 }
