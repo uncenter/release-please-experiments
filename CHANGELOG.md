@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/uncenter/release-please-experiments/compare/v0.2.0...v0.3.0) (2024-05-24)
+
+
+### Features
+
+* add robots ([4139ff5](https://github.com/uncenter/release-please-experiments/commit/4139ff5b3cdb070ada10c10e4a0e47d2839f312a))
+
 ## [0.2.0](https://github.com/uncenter/release-please-experiments/compare/v0.1.0...v0.2.0) (2024-05-24)
 
 
