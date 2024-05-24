@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/uncenter/release-please-experiments/compare/v0.3.0...v1.0.0) (2024-05-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* index.js -> main.js
+
+### Code Refactoring
+
+* index.js -&gt; main.js ([fa51794](https://github.com/uncenter/release-please-experiments/commit/fa517949ac51bc8d4d7ecf82e40eb28b4a50b18a))
+
 ## [0.3.0](https://github.com/uncenter/release-please-experiments/compare/v0.2.0...v0.3.0) (2024-05-24)
 
 
